@@ -6,7 +6,6 @@ First of all, clone the repo, and do
 
 ```
 npm install
-
 ```
 
 and after that just run with
